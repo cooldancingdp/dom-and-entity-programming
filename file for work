@@ -4,3 +4,14 @@
 
 // you write bdi 
 // you close it good practice but you dont have to 
+
+
+// i really like what co pilot did 
+
+<div>
+  <h3>My Work</h3>
+  <p>A div</p>
+  <bdi>Hello</bdi>
+</div>
+
+// end result 
